@@ -1,6 +1,6 @@
-# CattleCare AI
+# CattleLens 
 
-CattleCare AI is a full-stack cattle breed recognition and record-keeping
+CattleLens AI is a full-stack cattle breed recognition and record-keeping
 application. The FastAPI backend serves a trained ResNet-18 classifier and a
 JWT-protected API for prediction history, cattle profiles, diet plans, and
 vaccination records. The `frontend/` directory contains the Next.js client.
